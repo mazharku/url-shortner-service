@@ -16,6 +16,9 @@
 	<description>URL shortner service for spring boot</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>mazharku_url-shortner-service</sonar.projectKey>
+		<sonar.organization>mazharku</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
